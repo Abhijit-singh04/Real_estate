@@ -1,3 +1,10 @@
+#Real estate
+Real estate is property in the form of land, houses or other buildings. Title insurance guarantees the purchaser of real estate against loss from undiscovered defects in the title to property that has been purchased. Personal property is property other than real estate, or property that is movable or separable from it.
+
+#Screenshots
+<img width="796" alt="Capture" src="https://user-images.githubusercontent.com/103450664/219950460-2877fc82-efb1-4304-b18e-25993e3dacd4.PNG">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
