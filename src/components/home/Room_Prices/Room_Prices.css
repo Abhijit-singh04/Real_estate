@@ -1,0 +1,25 @@
+.Room_Prices .text {
+    padding: 30px;
+}
+
+.Room_Prices .category span {
+    padding: 4px 15px;
+    border-radius: 2px;
+    font-weight: 600;
+    font-size: 13px;
+    display: inline-block;
+}
+
+.Room_Prices .category i {
+    font-size: 20px;
+    color: #bec7d8;
+}
+
+.Room_Prices p {
+    color: #72809d;
+}
+
+.Room_Prices .button {
+    border-top: 1px solid #e4e8f3;
+    padding: 10px 30px;
+}
